@@ -1,5 +1,5 @@
 # Think Stats In Julia
-Learn [Think Stats](https://allendowney.github.io/ThinkStats/) using Julia.
+Learn [Think Stats](https://allendowney.github.io/ThinkStats/) using [Julia](https://julialang.org/).
 
 The original Python repo is: [https://github.com/AllenDowney/ThinkStats](https://github.com/AllenDowney/ThinkStats).
 
